@@ -1,0 +1,38 @@
+{
+  "0": {
+    "id": "0",
+    "title": "Test",
+    "content": "Another page Test this",
+    "url": "http://localhost:4000/Another-page.html",
+    "relUrl": "/Another-page.html"
+  },
+  "1": {
+    "id": "1",
+    "title": "Home",
+    "content": "Web programming with Flask Introduction Objectives Outline Session 0: Getting started with Flask Contact Jonathan Pastor",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },
+  "2": {
+    "id": "2",
+    "title": "Session 0 - Getting Started with Flask",
+    "content": "Session 0 - Getting Started with Flask In this session, […] I- Installing dependencies MacOS brew install python python-pip Linux (debian/ubuntu) apt install python python-pip II- Clone the project from github git clone https://github.com/badock/flask_sar_2018.git Next step : implementing a view Congratulations! You can now proceed with the next session",
+    "url": "http://localhost:4000/session0.html",
+    "relUrl": "/session0.html"
+  },
+  "3": {
+    "id": "3",
+    "title": "Child of Test",
+    "content": "Child of test I am a child page.",
+    "url": "http://localhost:4000/test-child.html",
+    "relUrl": "/test-child.html"
+  },
+  "4": {
+    "id": "4",
+    "title": "Granchild of Test",
+    "content": "I am a grand child of test",
+    "url": "http://localhost:4000/test-grand-child.html",
+    "relUrl": "/test-grand-child.html"
+  }
+  
+}

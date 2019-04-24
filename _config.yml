@@ -1,2 +1,14 @@
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
+theme: "just-the-docs"
+
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
